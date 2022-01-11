@@ -7,9 +7,9 @@ A web app that uses Etherium (Cryptocurrency) based smart contracts for posting 
 
 > Won 2nd prize in Hack Revolution 2022(by CSI and E-Cell,MJCET)
 >> Team Mates :  
->>Hima Satwika Katragadda
->>Krishna Priya
->>Sharat Chandra 
+>>||  Hima Satwika Katragadda  ||
+>>Krishna Priya VS Garimala  ||
+>>Sharat Chandra Manchi Sarapu  ||
 
 > // google drive link for certificates
 
@@ -34,17 +34,6 @@ A web app that uses Etherium (Cryptocurrency) based smart contracts for posting 
 
 ## Sections 📚
 ✔️ Home\
-
-To view a live example, 
-
-<!-- ### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://zahidali.me" target="_blank"><img src="abc.gif">
-  </a>
-  </kbd>
-</p> -->
-
 
 ## Contributing 💡
 #### Step 1
