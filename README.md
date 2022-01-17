@@ -45,7 +45,7 @@ A web app that uses Etherium (Cryptocurrency) based smart contracts for posting 
 </p>
 ✔️ Home
 <p align="center">
-  <img src="https://github.com/JustARandomDude4/MemEthereum/blob/main/home.png" width="8000" title="Final Results">
+  <img src="https://github.com/JustARandomDude4/MemEthereum/blob/main/home.png" width="500" title="Final Results">
 </p>
 ✔️ Transaction Confirmation
 <p align="center">
@@ -53,10 +53,10 @@ A web app that uses Etherium (Cryptocurrency) based smart contracts for posting 
 </p>
 ✔️ Details
 <p align="center">
-  <img src="https://github.com/JustARandomDude4/MemEthereum/blob/main/ganache.PNG" width="800" title="Final Results">
+  <img src="https://github.com/JustARandomDude4/MemEthereum/blob/main/ganache.PNG" width="500" title="Final Results">
 </p>
 <p align="center">
-  <img src="https://github.com/JustARandomDude4/MemEthereum/blob/main/aftertransaction.png" width="800" title="Final Results">
+  <img src="https://github.com/JustARandomDude4/MemEthereum/blob/main/aftertransaction.png" width="500" title="Final Results">
 </p>
 
 ## Contributing 💡
