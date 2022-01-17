@@ -21,6 +21,12 @@ A web app that uses Etherium (Cryptocurrency) based smart contracts for posting 
 ⚡️ Decentralization\
 ⚡️ Leverage of our own Cryptocurrency(MemeCoin)
 
+## Project Structure
+<p align="center">
+  <img src="https://github.com/JustARandomDude4/MemEthereum/blob/main/Project_diagram.jpeg" width="500 title="Final Results">
+</p>
+
+
 ## Installation & Deployment 📦    & ## Tools Used 🛠️
 - Clone the repository and modify the content of <b>index.html</b> according to your requirement.
 - Dependencies to be installed :
@@ -35,7 +41,7 @@ A web app that uses Etherium (Cryptocurrency) based smart contracts for posting 
 ## Sections 📚
 ✔️ Deploying Smart Contracts
 <p align="center">
-  <img src="https://github.com/JustARandomDude4/MemEthereum/blob/main/deploy.PNG" width="800 title="Final Results">
+  <img src="https://github.com/JustARandomDude4/MemEthereum/blob/main/deploy.PNG" width="500 title="Final Results">
 </p>
 ✔️ Home
 <p align="center">
@@ -43,7 +49,7 @@ A web app that uses Etherium (Cryptocurrency) based smart contracts for posting 
 </p>
 ✔️ Transaction Confirmation
 <p align="center">
-  <img src="https://github.com/JustARandomDude4/MemEthereum/blob/main/metamaskk.png" width="300" title="Final Results">
+  <img src="https://github.com/JustARandomDude4/MemEthereum/blob/main/metamaskk.png" width="500" title="Final Results">
 </p>
 ✔️ Details
 <p align="center">
