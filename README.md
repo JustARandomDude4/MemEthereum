@@ -33,7 +33,25 @@ A web app that uses Etherium (Cryptocurrency) based smart contracts for posting 
 - To deploy webapp, first you need to make sure ganache is running and you have meta mask installed.
 
 ## Sections 📚
-✔️ Home\
+✔️ Deploying Smart Contracts
+<p align="center">
+  <img src="https://github.com/JustARandomDude4/MemEthereum/blob/main/deploy.png" width="1000" title="Final Results">
+</p>
+✔️ Home
+<p align="center">
+  <img src="https://github.com/JustARandomDude4/MemEthereum/blob/main/home.png" width="1000" title="Final Results">
+</p>
+✔️ Transaction Confirmation
+<p align="center">
+  <img src="https://github.com/JustARandomDude4/MemEthereum/blob/main/metamaskk.png" width="1000" title="Final Results">
+</p>
+✔️ Details
+<p align="center">
+  <img src="https://github.com/JustARandomDude4/MemEthereum/blob/main/ganache.png" width="1000" title="Final Results">
+</p>
+<p align="center">
+  <img src="https://github.com/JustARandomDude4/MemEthereum/blob/main/aftertransaction.png" width="1000" title="Final Results">
+</p>
 
 ## Contributing 💡
 #### Step 1
