@@ -25,8 +25,7 @@ A web app that uses Etherium (Cryptocurrency) based smart contracts for posting 
 <p align="center">
   <img src="https://github.com/JustARandomDude4/MemEthereum/blob/main/Project_diagram.jpeg" width="500 title="Final Results">
 </p>
-
-
+                                                                                                                            
 ## Installation & Deployment 📦    & ## Tools Used 🛠️
 - Clone the repository and modify the content of <b>index.html</b> according to your requirement.
 - Dependencies to be installed :
@@ -38,27 +37,10 @@ A web app that uses Etherium (Cryptocurrency) based smart contracts for posting 
 * [<b>Ganache </b>](https://trufflesuite.com/ganache/) - A personal Block chain,  to run transactions deploy smart contracts without paying real money.
 * [<b>Metamask</b>](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) - chrome extention that is a Ethereumm wallet that turns our browser to Ethereum browser.
 - To deploy webapp, first you need to make sure ganache is running and you have meta mask installed.
-## How to downlaod and run the project:
                                                                                                                             
-``` git clone -b starter-code https://github.com/JustARandomDude4/MemEthereum "project-name" ```
-``` cd project-name ```
-``` npm install ```                                                                                            
--  Now run Ganache.                                                                                                                            
-``` npm run server ```                                                                                           
--To move/migrate the smart contracts to blockchain(reset flag, cuz old smartcontracts might be there)                                                                             ``` truffle migrate --reset  ```
-             
- # Smoke test to check if Connection is good:
- -To open a js run-time env where we can interact with the block-chain                                                                                          
- ``` truffle console                                                                                        
-Fetch memethereum from blockchain and assign to a variable-                             
-memethereum = await Memethereum.deployed()                                                                                             
-memethereum   -to get js versio of smart contract
-memethereum.address  -gives address of smart contract                                                                                           
- 
-For Testing the smart contracts:
-``` truffle test ```                                                                                            
                                                                                                                                                                                
-## Sections 📚
+
+                                                                                                                            
 ✔️ Deploying Smart Contracts
 <p align="center">
   <img src="https://github.com/JustARandomDude4/MemEthereum/blob/main/deploy.PNG" width="800 title="Final Results">
@@ -97,3 +79,5 @@ For Testing the smart contracts:
 # Contributing 💡
 
 If you can help us to add other pages. Please don't hesitate to open an [pull request](https://github.com/https://github.com/JustARandomDude4/MemEthereum/pulls) or facing any problem create [issue](https://github.com/JustARandomDude4/issues) here.
+
+
