@@ -39,24 +39,25 @@ A web app that uses Etherium (Cryptocurrency) based smart contracts for posting 
 * [<b>Metamask</b>](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) - chrome extention that is a Ethereumm wallet that turns our browser to Ethereum browser.
 - To deploy webapp, first you need to make sure ganache is running and you have meta mask installed.
 ## How to downlaod and run the project:
+                                                                                                                            
 ``` git clone -b starter-code https://github.com/JustARandomDude4/MemEthereum "project-name" ```
-                                                                                           ``` cd project-name
-                                                                                              npm install ```
-                                                                                            Now run Ganache.
-                                                                                            Start webserver:
-                                                                                            ``` npm run server ```
-                                                                                            To move/migrate the smart contracts to blockchain(reset flag, cuz old smartcontracts might be there)
-                                                                                           ``` truffle migrate --reset  ```
-                                                                                           # Smoke test to check if Connection is good
-  To open a js run-time env where we can interact with the block-chain   
-                                                                                            ``` truffle console ```
-   Fetch memethereum from blockchain and assign to a variable-                             ``` memethereum = await Memethereum.deployed() 
-      memethereum   -to get js versio o fsmart contract
-      memethereum.address  -gives address of smart contract
-                                                                                          ```
- Testing: Testing a smart contract is very important as once, its deployed its permanant.        
-                                                                                           ``` truffle test
-                                                                                           
+``` cd project-name ```
+``` npm install ```                                                                                            
+-  Now run Ganache.                                                                                                                            
+``` npm run server ```                                                                                           
+-To move/migrate the smart contracts to blockchain(reset flag, cuz old smartcontracts might be there)                                                                             ``` truffle migrate --reset  ```
+             
+ # Smoke test to check if Connection is good:
+ -To open a js run-time env where we can interact with the block-chain                                                                                          
+ ``` truffle console                                                                                        
+Fetch memethereum from blockchain and assign to a variable-                             
+memethereum = await Memethereum.deployed()                                                                                             
+memethereum   -to get js versio of smart contract
+memethereum.address  -gives address of smart contract                                                                                           
+ 
+For Testing the smart contracts:
+``` truffle test ```                                                                                            
+                                                                                                                                                                               
 ## Sections 📚
 ✔️ Deploying Smart Contracts
 <p align="center">
